@@ -1,0 +1,19 @@
+/*
+body{
+	
+	FONDO ESTATICO 
+
+	background-image: url(torre.JPG);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+*/
+body{
+	
+	/*FONDO ESTATICO CON MAS VARIABLES*/
+background: url(76E.JPG) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
